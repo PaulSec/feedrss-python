@@ -5,7 +5,8 @@ feeds = ['http://malware.dontneedcoffee.com/feeds/posts/default?alt=rss',
     'http://maldr0id.blogspot.com/feeds/posts/default?alt=rss',
     'http://www.virqdroid.com/feeds/posts/default?alt=rss',
     'https://blog.lookout.com/feed/',
-    'http://news.drweb.com/rss/get/?c=5&lng=en']
+    'http://news.drweb.com/rss/get/?c=5&lng=en',
+    'http://research.zscaler.com/feeds/posts/default?alt=rss']
 
 entries = []
 for feed in feeds:
